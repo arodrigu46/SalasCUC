@@ -1,4 +1,22 @@
 <resources>
     <string name="app_name">SalasCUC</string>
     <string name="cuclogo">cuclogo</string>
+    <string name="titulo">Salas de Cómputo CUC</string>
+    <string name="consultas">Consultas</string>
+
+    <array name="OpcionesConsultas">
+        <item>@string/dispSalas</item>
+        <item>@string/softSalas</item>
+        <item>@string/ubicSalas</item>
+    </array>
+    <array name="OpcionesUbicaciones">
+        <item>@string/ubicmapas</item>
+        <item>@string/ubicimagenes</item>
+    </array>
+    <string name="dispSalas">Consultar Disponibilidad de Salas</string>
+    <string name="softSalas">ConsultasSoftwarePorSalas</string>
+    <string name="ubicSalas">Consultar Ubicación de las Salas</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="ubicmapas">Visualizar en GMaps</string>
+    <string name="ubicimagenes">Visualizar en Imagenes</string>
 </resources>
